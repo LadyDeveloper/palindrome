@@ -1,4 +1,4 @@
-# palindrome
+# Palindrome
 
 Console APP to check palindromes.
 
